@@ -95,6 +95,7 @@ trait RoomTrait
             [
                 'name'    => $name,
                 'service' => 'conference.' . $this->host,
+                
             ]
         );
     }
