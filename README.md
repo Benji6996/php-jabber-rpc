@@ -38,7 +38,7 @@ You can see [package information on Packagist](https://packagist.org/packages/ga
 ```JSON
 {
 	"require": {
-		"gamenet/php-jabber-rpc": "*"
+		"benji6996/php-jabber-rpc": "*"
 	}
 }
 ```
